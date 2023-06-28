@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import styles from "../styles/Home.module.css";
 
-const url = "http://todo-app-five-mu.vercel.app/api/task";
+const url = "https://todo-app-five-mu.vercel.app/api/task";
 
 export default function Home(props) {
 	const [tasks, setTasks] = useState(props.tasks);
