@@ -8,7 +8,7 @@ class MyDocument extends Document {
             <script
               type="text/javascript"
               dangerouslySetInnerHTML={{
-                __html: 'window.liveSettings={api_key:"e69fca72d6b743f4a850fa9a9a51846f"}',
+                __html: 'window.liveSettings={api_key:"ac97fc0e63c1459582e33559cec8a5d5"}',
               }}
             ></script>
             <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
